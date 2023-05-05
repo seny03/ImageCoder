@@ -1,0 +1,9 @@
+aiogram
+numpy
+opencv_python
+opencv-python-headless
+Pillow
+pillow_heif
+requests
+ffmpeg
+libsm
